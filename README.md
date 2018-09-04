@@ -87,7 +87,6 @@ PearPlayer（梨享播放器）**[[Demo](https://demo.webrtc.win/)]** 是完全�
 
 + [Pear Limited](https://pear.hk)
 + [Lenovo China](https://www.lenovo.com.cn/)
-+ [Newifi xCloud](http://www.newifi.com/)
 + [FastWeb](http://fastweb.com.cn/)
 + [UCloud](https://www.ucloud.cn)
 + [Tencent Cloud](https://qcloud.com)
@@ -107,7 +106,6 @@ PearPlayer（梨享播放器）**[[Demo](https://demo.webrtc.win/)]** 是完全�
 ## 演讲与媒体报道
 
 - `2018.02.07` （36氪） - [「Pear梨享」让雾计算落地，百万边缘节点的背后是提高效率和成本控制](http://36kr.com/p/5118296.html) 
-- `2017.11.24` （金色财经） - [谛听科技正式进军区块链领域，战略投资梨享计算](http://www.jinse.com/blockchain/99767.html)
 - `2017.09.01` （未来网络开放社区联盟） - [继云计算之后，雾计算再起 —— 谈谈 P2P CDN](https://mp.weixin.qq.com/s/39dfSA6cTj2eoo-KqsC3AQ) 
 - `2017.08.18` （IT大咖说） - [WebRTC会成主流吗？众包CDN时代到了！](http://mp.weixin.qq.com/s/cx_ljl2sexE0XkgliZfnmQ)
 - `2017.07.11` （OSChina开源中国） - [PearPlayer.js —— 混合P2P-CDN的流媒体播放器](https://www.oschina.net/p/PearPlayerjs)
@@ -118,7 +116,6 @@ PearPlayer（梨享播放器）**[[Demo](https://demo.webrtc.win/)]** 是完全�
 
 ## License
 
-MIT. Copyright (c) [Pear Limited](https://pear.hk) and [snowinszu](https://github.com/snowinszu).
-
+MIT. Copyright (c) [Pear Limited](https://pear.hk) 
 ## 帮助与支持
 E-mail: <service@pear.hk>；用户QQ群：`373594967`；[CP/CDN接入、OEM与其他商务合作](https://github.com/PearInc/FogVDN)
